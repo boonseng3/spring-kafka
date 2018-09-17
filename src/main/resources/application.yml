@@ -1,0 +1,7 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+app:
+  topic:
+    request: request_topic
+    reply: reply_topic
